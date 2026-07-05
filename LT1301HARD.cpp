@@ -1,11 +1,3 @@
-/*     Scroll below to see JAVA code also    */
-/*
-    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=52a_yLVy_MQ
-    Company Tags                : will update later
-    Leetcode Link               : https://leetcode.com/problems/number-of-paths-with-max-score/
-*/
-
-
 
 /**************************************************************** C++ ****************************************************************/
 //Approach-1 (Recursion + Memoization)
